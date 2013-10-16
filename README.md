@@ -1,4 +1,3 @@
-test
-====
+# TEST
 
-Just a first test
+This is just a demo repository to play with github, huboard etc.
